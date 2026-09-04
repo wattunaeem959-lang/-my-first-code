@@ -1,6 +1,7 @@
-name = "Redbunny"
-age = 30
-print("Mera naam", name, "hai")
-a = 10
-b = 5
+naam = input("Tera naam kya hai? ")
+print("Hello", naam)
+
+a = int(input("Pehla number de: "))
+b = int(input("Dusra number de: "))
 print("Jod:", a + b)
+print("Guna:", a * b)
