@@ -1,13 +1,7 @@
-age = int(input("Teri age kya hai? "))
+for i in range(5):
+    print("Redbunny", i+1)
 
-if age >= 18:
-    print("Tu vote de sakta hai")
-else:
-    print("Tu chhota hai abhi")
-
-# aur ek
-num = int(input("Ek number de: "))
-if num % 2 == 0:
-    print("Ye Even hai")
-else:
-    print("Ye Odd hai")
+# table banana
+n = int(input("Kis ka table chahiye? "))
+for i in range(1, 11):
+    print(n, "x", i, "=", n*i)
