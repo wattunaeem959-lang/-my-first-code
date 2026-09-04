@@ -1,7 +1,13 @@
-naam = input("Tera naam kya hai? ")
-print("Hello", naam)
+age = int(input("Teri age kya hai? "))
 
-a = int(input("Pehla number de: "))
-b = int(input("Dusra number de: "))
-print("Jod:", a + b)
-print("Guna:", a * b)
+if age >= 18:
+    print("Tu vote de sakta hai")
+else:
+    print("Tu chhota hai abhi")
+
+# aur ek
+num = int(input("Ek number de: "))
+if num % 2 == 0:
+    print("Ye Even hai")
+else:
+    print("Ye Odd hai")
