@@ -9,9 +9,20 @@ Hi, I'm Redbunny! Started coding 6 days ago.
 - Day 5: Loops & Table Generator
 - Day 6: Number Guessing Game 🎮
 - Day 7: To-Do List, Password Generator, Calculator Pro 🔥
+- Day 8: GitHub push & VS Code setup
+- Day 9: Terminal fun experiments
+- Day 10: Became Glitch_Lord in terminal 😎
 
 ### How to Run
 python hello.py
+python calculator.py
+python input.py
+python ifelse.py
+python loops.py
+python game.py
 python todo.py
 python pass.py
 python calc.py
+python FUN/fun1.py
+python FUN/fun2.py
+python FUN/fun3.py
