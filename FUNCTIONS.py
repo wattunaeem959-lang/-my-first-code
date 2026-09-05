@@ -1,4 +1,8 @@
-def intro(name, age):
-    print(f"Hello {name}, you are {age} years old")
+def is_adult(age):
+    if age >= 18:
+        return True
+    else:
+        return False
 
-intro("redbunny", 30)
+print(is_adult(20))
+print(is_adult(15))
