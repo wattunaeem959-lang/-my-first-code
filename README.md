@@ -14,15 +14,15 @@ Hi, I'm Redbunny! Started coding 6 days ago.
 - Day 10: Became Glitch_Lord in terminal 😎
 
 ### How to Run
-python hello.py
-python calculator.py
-python input.py
-python ifelse.py
-python loops.py
-python game.py
-python todo.py
-python pass.py
-python calc.py
-python FUN/fun1.py
-python FUN/fun2.py
-python FUN/fun3.py
+...python hello.py
+...python calculator.py
+...python input.py
+...python ifelse.py
+...python loops.py
+...python game.py
+...python todo.py
+...python pass.py
+...python calc.py
+...python FUN/fun1.py
+...python FUN/fun2.py
+...python FUN/fun3.py
